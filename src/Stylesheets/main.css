@@ -3,6 +3,7 @@ html,body{
     padding:0px;
     background-color:#CEBF75;
     color:#2E4057;
+    font-family: monospace;
 }
 nav{
     background-color:64F58D;
@@ -24,8 +25,18 @@ nav a{
 nav a:hover{
     background-color:#9DFFF9;
 }
+h1{
+    padding:20px;
+    font-size: 75px;
+    text-align:center;
+    background-color:#9DFFF9;
+    margin:0px;
+}
 .content{
-    padding-left:130px;
+    margin-left:120px;
+}
+.internalContent{
+    margin:10px;
 }
 #current{
     background-color:#8D80AD;
