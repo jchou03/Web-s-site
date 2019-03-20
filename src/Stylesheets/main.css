@@ -4,4 +4,12 @@ html,body{
 }
 nav{
     background-color:tomato;
+    float:left;
+    height:100%;
+    width:70px;
+}
+nav a{
+    display:block;
+    text-align:center;
+    padding:10px;
 }
