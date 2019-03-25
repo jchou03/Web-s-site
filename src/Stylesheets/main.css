@@ -33,6 +33,9 @@ h1{
     margin:0px;
     font-family:serif;
 }
+p{
+    overflow:auto;
+}
 .content{
     margin-left:120px;
 }
