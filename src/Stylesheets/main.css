@@ -6,7 +6,7 @@ html,body{
     font-family: monospace;
 }
 nav{
-    background-color:64F58D;
+    background-color: #64F58D;
     float:left;
     height:100%;
     position: fixed;
