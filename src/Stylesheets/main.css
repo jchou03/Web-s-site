@@ -32,6 +32,9 @@ h1{
     background-color:#9DFFF9;
     margin:0px;
 }
+p{
+    overflow:auto;
+}
 .content{
     margin-left:120px;
 }
