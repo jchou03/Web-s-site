@@ -43,6 +43,12 @@ p{
     margin:10px;
     font-size: 20px;
 }
+.moreStuff{
+    float:left;
+    width:100%;
+    display:block;
+    height:auto;
+}
 #current{
     background-color:#8D80AD;
     color:#9DFFF9;
