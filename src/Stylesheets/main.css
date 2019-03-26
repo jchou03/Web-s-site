@@ -52,6 +52,14 @@ p{
     display:block;
     height:auto;
 }
+.floatLeft{
+    float:left;
+    margin-right:15px;
+}
+.floatRight{
+    float:right;
+    margin-left: 15px;
+}
 #current{
     background-color:#8D80AD;
     color:#9DFFF9;
