@@ -33,6 +33,9 @@ h1{
     margin:0px;
     font-family:serif;
 }
+h2{
+    text-align:center;
+}
 p{
     overflow:auto;
 }
