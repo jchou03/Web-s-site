@@ -64,3 +64,21 @@ p{
     background-color:#8D80AD;
     color:#9DFFF9;
 }
+
+@media only screen and (max-width: 800px){
+    nav{
+        height: auto;
+        width:100%;
+        top:0px;
+    }
+    nav a{
+        display: block;
+        width: 100%;
+    }
+    h1{
+        margin-top: 135px;
+    }
+    .content{
+        margin-left: 0px;
+    }
+}
