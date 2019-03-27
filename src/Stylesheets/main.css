@@ -24,6 +24,7 @@ nav a{
 }
 nav a:hover{
     background-color:#9DFFF9;
+    transition-duration: 0.5s;
 }
 h1{
     padding:20px;
@@ -38,6 +39,18 @@ h2{
 }
 p{
     overflow:auto;
+}
+button{
+    background-color: tomato;
+    padding:20px;
+    border: 2px solid tomato;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: #2E4057;
+    transition-duration:0.4s;
 }
 .content{
     margin-left:120px;
@@ -64,7 +77,12 @@ p{
     background-color:#8D80AD;
     color:#9DFFF9;
 }
-
+#random:hover{
+    background-image: url(https://www.w3schools.com/w3css/img_lights.jpg);
+}
+#bleh:hover{
+    background-image: url(https://i.pinimg.com/originals/da/b2/d4/dab2d405730473923d33a32e814950cd.jpg);
+}
 @media only screen and (max-width: 800px){
     nav{
         height: auto;
