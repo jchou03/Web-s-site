@@ -7,6 +7,6 @@ function darkMode() {
         document.body.style.backgroundColor='black'
     }   else {
         isItDark=false
-        document.body.style.backgroundColor='z'
+        document.body.style.backgroundColor=''
     }
 };
