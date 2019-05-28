@@ -78,9 +78,14 @@ button:hover{
     color:#9DFFF9;
 }
 #random:hover{
+    transition-duration: 0.5s;
+    background-size: cover;
+    background-repeat: no-repeat;
     background-image: url(https://www.w3schools.com/w3css/img_lights.jpg);
 }
 #bleh:hover{
+    background-position: center;
+    transition-duration: 0.5s;
     background-image: url(https://i.pinimg.com/originals/da/b2/d4/dab2d405730473923d33a32e814950cd.jpg);
 }
 @media only screen and (max-width: 800px){
