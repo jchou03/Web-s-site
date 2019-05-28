@@ -5,6 +5,11 @@ html,body{
     color:#2E4057;
     font-family: monospace;
 }
+iframe{
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 nav{
     background-color: #64F58D;
     float:left;
